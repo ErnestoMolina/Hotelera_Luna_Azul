@@ -26,7 +26,7 @@ h6{
     }
     .menu {
         max-width: 850px;
-        margin-left: 37px;
+        margin-left: 30px;
         height: 100%;
     }
     nav >ul{
@@ -137,7 +137,13 @@ h6{
     transform: scale(1.09)
 }
 
-
+.fa-solid.fa-magnifying-glass{
+    margin-top:2px;
+    width:25px;
+    height:25px;
+    margin-left:2px;
+    color:white;
+}
 
 
 h5{
